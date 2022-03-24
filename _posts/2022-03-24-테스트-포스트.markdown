@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "테스트 포스트"
+date:   2022-03-24 21:24:01
+categories: jekyll update
+---
+Monos 테마 한글 업로드 테스트입니다. `백틱 표시`는 다음과 같이 출력됩니다.
+코드 출력 예시입니다.
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+링크 연결은 [네이버][naver] 다음과 같이 출력됩니다.
+[naver]: http://www.naver.com
